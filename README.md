@@ -1,4 +1,4 @@
-# Azure: Zero to Expert
+# Azure: Zero to Expert (⏳ Yet to start)
 
 A structured, hands-on repository covering Microsoft Azure cloud architecture from foundational core concepts to advanced enterprise-grade solutions, with a strong focus on `.NET` workloads and modern DevOps practices.
 
